@@ -75,7 +75,30 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Additional Roles & Personas
+
+### Project Sponsor
+- **Responsibilities:** Set project vision and goals, secure resources, provide oversight
+- **Interactions:** Works with project manager, interacts with key stakeholders
+
+### Scrum Master / Agile Coach
+- **Responsibilities:** Facilitate agile ceremonies, support team productivity, remove obstacles
+- **Interactions:** Collaborates with team members and project manager
+
+### Communications Lead
+- **Responsibilities:** Owns stakeholder updates, project communications, status reports
+- **Interactions:** Coordinates with PM, interfaces with external communications
+
+### Business Analyst
+- **Responsibilities:** Gather business requirements, analyze process gaps, support solution validation
+- **Interactions:** Liaises between stakeholders and technical teams
+
+### Change Manager
+- **Responsibilities:** Lead change management, prepare teams for transitions, ensure communication of changes
+- **Interactions:** Connects with PM, affected teams, and leadership
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
